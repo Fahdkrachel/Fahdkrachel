@@ -58,9 +58,7 @@ Passionné par le développement backend et le Cloud Computing, je me spécialis
 - 🎮 Développer **N7GD**, mon club dédié au jeu vidéo (2D/3D)
 - 🌐 Contribuer à des projets **open-source**
 - 🎯 Décrocher un stage/opportunité en développement backend & cloud
-## 📈 Contribution Graph
- 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fahdkrachel&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true)](https://github.com/Fahdkrachel)
+
  
 ## 📫 Let's Connect!
  
